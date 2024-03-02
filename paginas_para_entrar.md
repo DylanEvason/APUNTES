@@ -11,3 +11,9 @@ Página principal:
 ### Markdown Cheatsheet
 
 [Markdwon Cheatsheed](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+## COMPROBAR SEMANTICA
+
+### HTML
+
+[Validator HTML](https://validator.w3.org)
