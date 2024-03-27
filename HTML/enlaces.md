@@ -23,13 +23,13 @@ La etiqueta dedicada para el uso de estos enlaces son **</a/></a>** que signific
         <a href="pvz1.html">Pvz1</a>
     </header>
 ```
-<img src="https://media.discordapp.net/attachments/689476534616326208/1214746524681117756/image.png?ex=65fa3bdc&is=65e7c6dc&hm=dbea706018645ad7321bf8e5f2e98e943f31776e28a6683714332191c60e2f3c&=&format=webp&quality=lossless">
+<img src="/assets/HTML/links1.png">
 
 <br>
 
 *Presionas el boton de* **Pvz1** *y te lleva a:* 
 
-<img src="https://media.discordapp.net/attachments/689476534616326208/1214746538933485678/image.png?ex=65fa3bdf&is=65e7c6df&hm=b84d1a3fee57f7656e96006ccd6ce820f9ebbc2d5fb3d7bba60d1a555027e9ed&=&format=webp&quality=lossless">
+<img src="/assets/HTML/links2.png">
 
 ***
 

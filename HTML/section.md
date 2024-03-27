@@ -13,4 +13,4 @@
     </section>
 ```
 <br>
-<img src="https://cdn.discordapp.com/attachments/689476534616326208/1213285483531214848/image.png?ex=65f4eb29&is=65e27629&hm=1690f1bc086012fc500d2d66b3ba602e0bc7a1950506617c3a08a47e7865e4e5&">
+<img src="/assets/HTML/section.png">

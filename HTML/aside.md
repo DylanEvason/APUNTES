@@ -12,4 +12,4 @@ Se utiliza para representar contenido relacionado pero no es fundamental de este
         <aside>POPCAP fue adquirido por electronic arts en 2011</aside>
 </article>
 ```
-<img src="https://cdn.discordapp.com/attachments/689476534616326208/1213287581417209856/image.png?ex=65f4ed1d&is=65e2781d&hm=6deda7336ba00b9ed1b693f3ab3215106fd7951aae6bb0e17a009da9e349788f&">
+<img src="/assets/HTML/aside1.png">
