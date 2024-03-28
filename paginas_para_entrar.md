@@ -17,3 +17,4 @@ Página principal:
 ### HTML
 
 [Validator HTML](https://validator.w3.org)
+[ASCII](https://ascii.cl/es/codigos-html.htm)
